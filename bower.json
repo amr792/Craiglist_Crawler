@@ -1,0 +1,22 @@
+{
+  "name": "craigslist_crawler",
+  "homepage": "https://github.com/amr792/craigslist_crawler",
+  "authors": [
+    "Drew <amr792@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "react": "^16.1.0",
+    "Flask-Alchemy": "^2.3.1"
+  }
+}
