@@ -1,0 +1,25 @@
+{
+  "name": "craigslist_crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "flask": "^0.2.10"
+  },
+  "devDependencies": {
+    "bower": "^1.8.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amr792/craigslist_crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amr792/craigslist_crawler/issues"
+  },
+  "homepage": "https://github.com/amr792/craigslist_crawler#readme"
+}
