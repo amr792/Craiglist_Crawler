@@ -15,8 +15,8 @@
     "tests"
   ],
   "dependencies": {
+    "flask": "^0.2.10",
     "bootstrap": "^3.3.7",
-    "react": "^16.1.0",
-    "Flask-Alchemy": "^2.3.1"
+    "react": "^16.1.0"
   }
 }
