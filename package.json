@@ -4,12 +4,20 @@
   "description": "A simple website in node js to accompany a blog post.",
   "main": "app.js",
   "dependencies": {
-    "bower": "^1.8.2",
-    "del": "^3.0.0",
-    "gulp": "^3.9.1",
-    "gulp-browser": "^3.0.6",
-    "gulp-size": "^2.1.0",
-    "reactify": "^1.1.1"
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "^1.4.1",
+    "express": "*",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*"
   },
   "devDependencies": {},
   "scripts": {
